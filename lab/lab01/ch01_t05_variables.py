@@ -1,2 +1,2 @@
 import datetime
-today_date = f""
+today_date = f"{datetime.datetime.now():%Y-%m-%d)""}"

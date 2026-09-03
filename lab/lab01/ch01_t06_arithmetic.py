@@ -1,2 +1,2 @@
-product = 2*3
-reminder = 1398%3
+product = 1 + 1
+reminder = 1398 % 11

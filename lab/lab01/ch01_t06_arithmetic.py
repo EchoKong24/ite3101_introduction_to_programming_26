@@ -1,1 +1,1 @@
-product =2*3
+product = 2*3

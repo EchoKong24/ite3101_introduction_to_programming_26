@@ -2,5 +2,5 @@
 the variable the_machine_goes on
 line 5, then print it out on line 6!"""
 
-the_marchine_goes = str("Ping!")
-print(the_marchine_goes)
+the_machine_goes = str("Ping!")
+print(the_machine_goes)

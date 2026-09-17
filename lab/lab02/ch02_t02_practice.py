@@ -2,9 +2,9 @@
 
 
 # Put your variables above this line, and uncomment the following 3 line of codes.
-caesar
-
-
+caesar = "Graham"
+praline = "John"
+viking = "b"
 
 # print(caesar)
 # print(praline)

@@ -1,2 +1,3 @@
 cucumbers = 1
-price per 
+price_per_cucumbers = 3.25
+total_cose = cucumbers * price_per_cucumbers

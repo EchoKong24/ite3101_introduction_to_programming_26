@@ -4,6 +4,6 @@ bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
 
 bool_three = False
 
-bool_four = None
+bool_four = -(1 ** 2) < 5 ** 0 and 10 % 10 <= 20 - 10 * 2
 
 bool_five = True

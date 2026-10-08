@@ -1,1 +1,2 @@
-def hotel
+def answe():
+    return 42

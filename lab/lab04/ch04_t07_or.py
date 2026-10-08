@@ -2,8 +2,8 @@ bool_one = 2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 
 bool_two = True or False
 
-bool_three = None
+bool_three = 100 ** 0.5 >= 50 or Flase
 
-bool_four = None
+bool_four = True or True
 
-bool_five = None
+bool_five = 

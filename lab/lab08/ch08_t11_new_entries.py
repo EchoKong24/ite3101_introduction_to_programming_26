@@ -6,5 +6,6 @@ menu['billy Alfredo'] = 15.50
 menu['Chickena Alfredo'] = 145.50
 menu['Chickena Alfredo'] = 145.50
 
+
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)

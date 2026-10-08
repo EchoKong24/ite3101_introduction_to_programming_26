@@ -3,7 +3,7 @@ menu['Chicken Alfredo'] = 14.50  # Adding new key-value pair
 print(menu['Chicken Alfredo'])
 
 menu['billy Alfredo'] = 15.50
-menu['Chickena Alfredo'] = 145.50
+menu['Chicken Alfredo'] = 145.50
 menu['Chickena Alfredo'] = 145.50
 
 

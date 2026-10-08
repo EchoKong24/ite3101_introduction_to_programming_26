@@ -1,4 +1,4 @@
-bool_one = None
+bool_one = 2 ** 3 == 108 % 100 or 'Cles'
 
 bool_two = None
 

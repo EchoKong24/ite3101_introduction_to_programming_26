@@ -1,2 +1,2 @@
-def answe():
+def answer():
     return 42

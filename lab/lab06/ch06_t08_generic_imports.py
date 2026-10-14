@@ -1,3 +1,5 @@
-# Ask Python to print sqrt(25) on line 3.
+# Ask Python to print sqrt(25).
 
-print(sqrt(25))
+import math
+
+print(math.sqrt(25))

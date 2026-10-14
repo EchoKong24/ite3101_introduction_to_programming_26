@@ -15,8 +15,10 @@ stock = {
 total = 0
 
 for fruit in prices:
-    value = prices[fruit] * stock[fruit]
-    print(value)
-    total += value
+    print(fruit)
+    print("price: %s" % prices[fruit])
+    print("stock: %s" % stock[fruit])
+
+    total += prices[fruit] * stock[fruit]
 
 print(total)

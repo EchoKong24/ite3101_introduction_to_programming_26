@@ -5,4 +5,6 @@ print("This list contains: ")
 for num in numbers:
     print(num)
 
-# Add your loop below!
+# Print the square of each number.
+for num in numbers:
+    print(num ** 2)

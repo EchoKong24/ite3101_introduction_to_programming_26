@@ -1,5 +1,3 @@
-# Set minimum to the min value of any set of numbers on line 3!
-
-minimum = None
+minimum = min(10, 25, 3, 8.5)
 
 print(minimum)

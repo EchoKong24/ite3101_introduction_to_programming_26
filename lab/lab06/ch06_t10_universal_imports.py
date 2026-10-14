@@ -1,1 +1,5 @@
-# Import *everything* from the math module on line 3!
+# Import everything from the math module.
+
+from math import *
+
+print(sqrt(25))

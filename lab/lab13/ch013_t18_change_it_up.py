@@ -1,10 +1,11 @@
-fruits = ['banana', 'apple', 'orange', 'tomato', 'pear', 'grape']
+fruits = ["banana", "apple", "orange", "tomato", "pear", "grape"]
 
-print('You have...')
+print("You have...")
+
 for f in fruits:
-    if f == 'tomato':
-        print('A tomato is not a fruit!')  # (It actually is.)
-        break
-    print('A', f)
+    if f == "tomato":
+        print("A tomato is not a fruit!")  # (It actually is.)
+
+    print("A", f)
 else:
-    print('A fine selection of fruits!')
+    print("A fine selection of fruits!")

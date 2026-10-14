@@ -1,4 +1,4 @@
-shopping_list = ["banana", "orange", "apple"]
+groceries = ["banana", "orange", "apple"]
 
 prices = {
     "banana": 4,

@@ -1,3 +1,5 @@
+global prices, stock
+
 groceries = ["banana", "orange", "apple"]
 
 prices = {

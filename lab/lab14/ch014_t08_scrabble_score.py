@@ -7,3 +7,4 @@ def scrabble_score(word):
     total = 0
     for i in word:
         total += score[i.lower()]
+    return total

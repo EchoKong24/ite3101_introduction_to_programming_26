@@ -1,4 +1,4 @@
-def is_even(x):
+def is_int(x):
     if x % 2 == 0:
         return True
     else:
